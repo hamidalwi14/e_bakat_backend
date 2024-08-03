@@ -5,10 +5,10 @@
   "secret": "SVA",
   "database": {
     "development": {
-      "uri": "mongodb+srv://rafli290902:rafli123@cluster0.lqgvzhg.mongodb.net/e_bakat"
+      "uri": "mongodb+srv://arkan:123@cluster0.z7vxmox.mongodb.net/e_bakat"
     },
     "production": {
-      "uri": "mongodb+srv://rafli290902:rafli123@cluster0.lqgvzhg.mongodb.net/e_bakat"
+      "uri": "mongodb+srv://arkan:123@cluster0.z7vxmox.mongodb.net/e_bakat"
     }
   }
 }
