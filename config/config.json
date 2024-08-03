@@ -1,0 +1,14 @@
+{
+  "name": "Arkhan",
+  "email": "arkan4@gmail.com",
+  "password": "",
+  "secret": "SVA",
+  "database": {
+    "development": {
+      "uri": "mongodb+srv://rafli290902:rafli123@cluster0.lqgvzhg.mongodb.net/e_bakat"
+    },
+    "production": {
+      "uri": "mongodb+srv://rafli290902:rafli123@cluster0.lqgvzhg.mongodb.net/e_bakat"
+    }
+  }
+}
